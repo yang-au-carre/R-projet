@@ -1,2 +1,3 @@
 # R-projet
-statistique avancée
+course : statistique avancée
+author : Yang YANG
