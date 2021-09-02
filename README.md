@@ -1,3 +1,3 @@
 # R-projet
-course : statistique avancée
+course : statistique avancée de CentraleSupelec
 author : Yang YANG
